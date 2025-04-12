@@ -47,13 +47,12 @@
 
 ### 3. `All offers`セクションまでスクロール
 ![all offers](sample_img.png "sample")
+  `About GitHub Copilot`内の<u>Get direct access on the GitHub Copilot website</u>にアクセス
 
-### 4. `About GitHub Copilot`内の <u>Get direct access on the GitHub Copilot website</u> にアクセス
-
-### 5. 流れに沿って`Copilot`のFeatures等の設定を行う
+### 4. 流れに沿って`Copilot`のFeatures等の設定を行う
   「Your Copilot」画面に遷移し、`Anthropic Claude 3.7 Sonnet in Copilot`等の設定を行うことができる。
 
-### 6. 状態の確認
+### 5. 状態の確認
   GitHub Copilot Pro is active for your account と記載があれば完了。
 
 
