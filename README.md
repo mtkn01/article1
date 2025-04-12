@@ -58,7 +58,7 @@
 
 
 ## 備考
-- **本件は、数日間待つことで自然に解決する場合があります。**  
+- **本件は、数日間待つことで自然に解決する場合があります。:**  
   筆者はGitHub Education承認メール（"Welcome! Thank you for joining GitHub Education. ..."）を受け取ってから2日後に対処しましたが、他の利用者の報告によると、4～7日間待機すると正常にGitHub Copilot Proが有効になるケースも見受けられます。
 
 - **表示の違いについて:**  
@@ -68,8 +68,8 @@
   万が一、上記手順で問題が解決しない場合は、GitHub サポートに連絡し、詳細な状況とアカウント情報を提供することをお勧めします。
 
 ## 参考リンク
-- GitHub Community Discussion: [https://github.com/orgs/community/discussions/150580](https://github.com/orgs/community/discussions/150580)
-- Github Copilotとは？: [https://www.ai-souken.com/article/github-copilot-overview](https://www.ai-souken.com/article/github-copilot-overview)
+  - GitHub Community Discussion: [https://github.com/orgs/community/discussions/150580](https://github.com/orgs/community/discussions/150580)
+  - Github Copilotとは？: [https://www.ai-souken.com/article/github-copilot-overview](https://www.ai-souken.com/article/github-copilot-overview)
 
 ## 結論
-以上の手順により、GitHub Education 対象者として無料で提供されるCopilotが、正しくProプランの状態（機能が有効な状態）で動作するようになりました。
+  以上の手順により、GitHub Education 対象者として無料で提供されるCopilotが、正しくProプランの状態（機能が有効な状態）で動作するようになりました。
